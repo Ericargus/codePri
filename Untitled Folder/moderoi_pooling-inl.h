@@ -1,3 +1,8 @@
+/*
+this is written by Zhong XingYu
+if you need this code ,you should declare
+*/
+
 #ifndef MXNET_OPERATOR_MODEROI_POOLING_INL_H_
 #define MXNET_OPERATOR_MODEROI_POOLING_INL_H_
 
