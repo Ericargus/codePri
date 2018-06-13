@@ -1,3 +1,7 @@
+/*
+this is written by Zhong XingYu
+if you need this code ,you should declare
+*/
 #include "./moderoi_pooling-inl.h"
 #include <mshadow/tensor.h>
 #include <mshadow/cuda/reduce.cuh>
